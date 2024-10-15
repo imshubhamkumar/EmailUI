@@ -1,0 +1,9 @@
+.layout-body-container {
+  background-color: aliceblue;
+  height: 91vh;
+}
+
+.list-item:hover,
+.list-item.active {
+  background-color: beige;
+}
